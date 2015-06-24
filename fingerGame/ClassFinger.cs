@@ -10,12 +10,18 @@ namespace fingerGame
     {
         private int finger;
 
+        public int Finger
+        {
+            set { finger = value; }
+            get { return finger; }
+        }
+
         public void Setfinger(int Finger)
         {
             finger = Finger;
         }
 
-        public String Getfinger()
+        public String GetFingerDesc()
         {
             String fingerDesc;
             if (finger == 1)
@@ -34,16 +40,31 @@ namespace fingerGame
     {
         private int peopleAns;
         private int cupAns;
+        private String result;
 
-        public void SetResult(int PeopleAns, int CupAns)
+        public int PeopleAns
         {
-            peopleAns = PeopleAns;
-            cupAns = CupAns;
+            set { peopleAns = value; }
         }
 
-        private Boolean GetResult()
+        public int CupAns
         {
-            return true;
+            set { cupAns = value; }
+        }
+
+        public String GetResult()
+        {
+            int Result;
+            Result = peopleAns - cupAns;
+            if (Result == 0)
+            { result = "平手"; }
+            else if (Result == 1)
+            { result = "你贏了"; }
+            else if (Result == 2)
+            { result = "你輸了"; }
+            else
+            { result = "錯誤"; }
+            return result;
         }
     }
 }
