@@ -1,0 +1,12 @@
+c:\users\q1233263\documents\visual studio 2013\Projects\Solution2\fingerGame\bin\Debug\fingerGame.exe.config
+C:\Users\Q1233263\Documents\Visual Studio 2013\Projects\Solution2\fingerGame\bin\Debug\fingerGame.exe
+C:\Users\Q1233263\Documents\Visual Studio 2013\Projects\Solution2\fingerGame\bin\Debug\fingerGame.pdb
+C:\Users\Q1233263\Documents\Visual Studio 2013\Projects\Solution2\fingerGame\obj\Debug\fingerGame.csprojResolveAssemblyReference.cache
+C:\Users\Q1233263\Documents\Visual Studio 2013\Projects\Solution2\fingerGame\obj\Debug\fingerGame.exe
+C:\Users\Q1233263\Documents\Visual Studio 2013\Projects\Solution2\fingerGame\obj\Debug\fingerGame.pdb
+C:\Users\Q1233263\Documents\Visual Studio 2013\Projects\CSharpHomework\fingerGame\bin\Debug\fingerGame.exe.config
+C:\Users\Q1233263\Documents\Visual Studio 2013\Projects\CSharpHomework\fingerGame\obj\Debug\fingerGame.exe
+C:\Users\Q1233263\Documents\Visual Studio 2013\Projects\CSharpHomework\fingerGame\obj\Debug\fingerGame.pdb
+C:\Users\Q1233263\Documents\Visual Studio 2013\Projects\CSharpHomework\fingerGame\bin\Debug\fingerGame.exe
+C:\Users\Q1233263\Documents\Visual Studio 2013\Projects\CSharpHomework\fingerGame\bin\Debug\fingerGame.pdb
+C:\Users\Q1233263\Documents\Visual Studio 2013\Projects\CSharpHomework\fingerGame\obj\Debug\fingerGame.csprojResolveAssemblyReference.cache
