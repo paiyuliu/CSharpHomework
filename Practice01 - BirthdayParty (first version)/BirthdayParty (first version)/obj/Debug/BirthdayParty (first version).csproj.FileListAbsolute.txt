@@ -1,0 +1,9 @@
+D:\CSharpHomework\Practice01 - BirthdayParty (first version)\BirthdayParty (first version)\bin\Debug\BirthdayParty (first version).exe.config
+D:\CSharpHomework\Practice01 - BirthdayParty (first version)\BirthdayParty (first version)\bin\Debug\BirthdayParty (first version).exe
+D:\CSharpHomework\Practice01 - BirthdayParty (first version)\BirthdayParty (first version)\bin\Debug\BirthdayParty (first version).pdb
+D:\CSharpHomework\Practice01 - BirthdayParty (first version)\BirthdayParty (first version)\obj\Debug\BirthdayParty (first version).csprojResolveAssemblyReference.cache
+D:\CSharpHomework\Practice01 - BirthdayParty (first version)\BirthdayParty (first version)\obj\Debug\BirthdayParty__first_version_.Form1.resources
+D:\CSharpHomework\Practice01 - BirthdayParty (first version)\BirthdayParty (first version)\obj\Debug\BirthdayParty__first_version_.Properties.Resources.resources
+D:\CSharpHomework\Practice01 - BirthdayParty (first version)\BirthdayParty (first version)\obj\Debug\BirthdayParty (first version).csproj.GenerateResource.Cache
+D:\CSharpHomework\Practice01 - BirthdayParty (first version)\BirthdayParty (first version)\obj\Debug\BirthdayParty (first version).exe
+D:\CSharpHomework\Practice01 - BirthdayParty (first version)\BirthdayParty (first version)\obj\Debug\BirthdayParty (first version).pdb

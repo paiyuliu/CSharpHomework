@@ -1,0 +1,8 @@
+D:\CSharpHomework\example0626\bin\Debug\example0626.exe.config
+D:\CSharpHomework\example0626\bin\Debug\example0626.exe
+D:\CSharpHomework\example0626\bin\Debug\example0626.pdb
+D:\CSharpHomework\example0626\bin\Debug\ClassEmployeeLibrary.dll
+D:\CSharpHomework\example0626\bin\Debug\ClassEmployeeLibrary.pdb
+D:\CSharpHomework\example0626\obj\Debug\example0626.csprojResolveAssemblyReference.cache
+D:\CSharpHomework\example0626\obj\Debug\example0626.exe
+D:\CSharpHomework\example0626\obj\Debug\example0626.pdb

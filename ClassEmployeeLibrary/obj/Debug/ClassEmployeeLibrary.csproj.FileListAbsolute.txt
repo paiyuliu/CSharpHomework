@@ -1,0 +1,5 @@
+D:\CSharpHomework\ClassEmployeeLibrary\bin\Debug\ClassEmployeeLibrary.dll
+D:\CSharpHomework\ClassEmployeeLibrary\bin\Debug\ClassEmployeeLibrary.pdb
+D:\CSharpHomework\ClassEmployeeLibrary\obj\Debug\ClassEmployeeLibrary.dll
+D:\CSharpHomework\ClassEmployeeLibrary\obj\Debug\ClassEmployeeLibrary.pdb
+D:\CSharpHomework\ClassEmployeeLibrary\obj\Debug\ClassEmployeeLibrary.csprojResolveAssemblyReference.cache

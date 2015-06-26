@@ -10,3 +10,6 @@ C:\Users\Q1233263\Documents\Visual Studio 2013\Projects\CSharpHomework\fingerGam
 C:\Users\Q1233263\Documents\Visual Studio 2013\Projects\CSharpHomework\fingerGame\bin\Debug\fingerGame.exe
 C:\Users\Q1233263\Documents\Visual Studio 2013\Projects\CSharpHomework\fingerGame\bin\Debug\fingerGame.pdb
 C:\Users\Q1233263\Documents\Visual Studio 2013\Projects\CSharpHomework\fingerGame\obj\Debug\fingerGame.csprojResolveAssemblyReference.cache
+D:\CSharpHomework\fingerGame\bin\Debug\fingerGame.exe.config
+D:\CSharpHomework\fingerGame\obj\Debug\fingerGame.exe
+D:\CSharpHomework\fingerGame\obj\Debug\fingerGame.pdb
