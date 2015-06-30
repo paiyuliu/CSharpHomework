@@ -60,7 +60,7 @@
             this.tabControl1.Location = new System.Drawing.Point(0, 0);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(178, 178);
+            this.tabControl1.Size = new System.Drawing.Size(388, 354);
             this.tabControl1.TabIndex = 0;
             // 
             // tabPage1
@@ -74,7 +74,7 @@
             this.tabPage1.Location = new System.Drawing.Point(4, 22);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(170, 152);
+            this.tabPage1.Size = new System.Drawing.Size(380, 328);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Dinner Party";
             this.tabPage1.UseVisualStyleBackColor = true;
@@ -83,7 +83,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(8, 106);
+            this.label2.Location = new System.Drawing.Point(8, 98);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(32, 13);
             this.label2.TabIndex = 11;
@@ -93,17 +93,17 @@
             // 
             this.costLabel.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.costLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.costLabel.Location = new System.Drawing.Point(46, 105);
+            this.costLabel.Location = new System.Drawing.Point(46, 97);
             this.costLabel.Name = "costLabel";
-            this.costLabel.Size = new System.Drawing.Size(71, 19);
+            this.costLabel.Size = new System.Drawing.Size(71, 18);
             this.costLabel.TabIndex = 10;
             // 
             // healthyBox
             // 
             this.healthyBox.AutoSize = true;
-            this.healthyBox.Location = new System.Drawing.Point(11, 77);
+            this.healthyBox.Location = new System.Drawing.Point(11, 71);
             this.healthyBox.Name = "healthyBox";
-            this.healthyBox.Size = new System.Drawing.Size(122, 17);
+            this.healthyBox.Size = new System.Drawing.Size(118, 16);
             this.healthyBox.TabIndex = 9;
             this.healthyBox.Text = "Healthy Decorations";
             this.healthyBox.UseVisualStyleBackColor = true;
@@ -114,9 +114,9 @@
             this.fancyBox.AutoSize = true;
             this.fancyBox.Checked = true;
             this.fancyBox.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.fancyBox.Location = new System.Drawing.Point(11, 54);
+            this.fancyBox.Location = new System.Drawing.Point(11, 50);
             this.fancyBox.Name = "fancyBox";
-            this.fancyBox.Size = new System.Drawing.Size(115, 17);
+            this.fancyBox.Size = new System.Drawing.Size(110, 16);
             this.fancyBox.TabIndex = 8;
             this.fancyBox.Text = "Fancy Decorations";
             this.fancyBox.UseVisualStyleBackColor = true;
@@ -124,7 +124,7 @@
             // 
             // numericUpDown1
             // 
-            this.numericUpDown1.Location = new System.Drawing.Point(11, 28);
+            this.numericUpDown1.Location = new System.Drawing.Point(11, 26);
             this.numericUpDown1.Maximum = new decimal(new int[] {
             20,
             0,
@@ -136,7 +136,7 @@
             0,
             0});
             this.numericUpDown1.Name = "numericUpDown1";
-            this.numericUpDown1.Size = new System.Drawing.Size(89, 20);
+            this.numericUpDown1.Size = new System.Drawing.Size(89, 22);
             this.numericUpDown1.TabIndex = 7;
             this.numericUpDown1.Value = new decimal(new int[] {
             5,
@@ -148,9 +148,9 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(8, 12);
+            this.label1.Location = new System.Drawing.Point(8, 11);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(92, 13);
+            this.label1.Size = new System.Drawing.Size(90, 12);
             this.label1.TabIndex = 6;
             this.label1.Text = "Number of People";
             // 
@@ -167,16 +167,16 @@
             this.tabPage2.Location = new System.Drawing.Point(4, 22);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(170, 152);
+            this.tabPage2.Size = new System.Drawing.Size(170, 138);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Birthday Party";
             this.tabPage2.UseVisualStyleBackColor = true;
             // 
             // cakeWriting
             // 
-            this.cakeWriting.Location = new System.Drawing.Point(11, 90);
+            this.cakeWriting.Location = new System.Drawing.Point(11, 83);
             this.cakeWriting.Name = "cakeWriting";
-            this.cakeWriting.Size = new System.Drawing.Size(151, 20);
+            this.cakeWriting.Size = new System.Drawing.Size(151, 22);
             this.cakeWriting.TabIndex = 20;
             this.cakeWriting.Text = "Happy Birthday";
             this.cakeWriting.TextChanged += new System.EventHandler(this.cakeWriting_TextChanged);
@@ -185,18 +185,18 @@
             // 
             this.tooLongLabel.AutoSize = true;
             this.tooLongLabel.BackColor = System.Drawing.Color.Red;
-            this.tooLongLabel.Location = new System.Drawing.Point(82, 74);
+            this.tooLongLabel.Location = new System.Drawing.Point(82, 68);
             this.tooLongLabel.Name = "tooLongLabel";
-            this.tooLongLabel.Size = new System.Drawing.Size(63, 13);
+            this.tooLongLabel.Size = new System.Drawing.Size(62, 12);
             this.tooLongLabel.TabIndex = 19;
             this.tooLongLabel.Text = "TOO LONG";
             // 
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(8, 74);
+            this.label6.Location = new System.Drawing.Point(8, 68);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(68, 13);
+            this.label6.Size = new System.Drawing.Size(68, 12);
             this.label6.TabIndex = 18;
             this.label6.Text = "Cake Writing";
             // 
@@ -204,7 +204,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(8, 122);
+            this.label3.Location = new System.Drawing.Point(8, 113);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(32, 13);
             this.label3.TabIndex = 17;
@@ -214,9 +214,9 @@
             // 
             this.birthdayCost.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.birthdayCost.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.birthdayCost.Location = new System.Drawing.Point(46, 121);
+            this.birthdayCost.Location = new System.Drawing.Point(46, 112);
             this.birthdayCost.Name = "birthdayCost";
-            this.birthdayCost.Size = new System.Drawing.Size(71, 20);
+            this.birthdayCost.Size = new System.Drawing.Size(71, 18);
             this.birthdayCost.TabIndex = 16;
             // 
             // fancyBirthday
@@ -224,9 +224,9 @@
             this.fancyBirthday.AutoSize = true;
             this.fancyBirthday.Checked = true;
             this.fancyBirthday.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.fancyBirthday.Location = new System.Drawing.Point(11, 54);
+            this.fancyBirthday.Location = new System.Drawing.Point(11, 50);
             this.fancyBirthday.Name = "fancyBirthday";
-            this.fancyBirthday.Size = new System.Drawing.Size(115, 17);
+            this.fancyBirthday.Size = new System.Drawing.Size(110, 16);
             this.fancyBirthday.TabIndex = 14;
             this.fancyBirthday.Text = "Fancy Decorations";
             this.fancyBirthday.UseVisualStyleBackColor = true;
@@ -234,7 +234,7 @@
             // 
             // numberBirthday
             // 
-            this.numberBirthday.Location = new System.Drawing.Point(11, 28);
+            this.numberBirthday.Location = new System.Drawing.Point(11, 26);
             this.numberBirthday.Maximum = new decimal(new int[] {
             20,
             0,
@@ -246,7 +246,7 @@
             0,
             0});
             this.numberBirthday.Name = "numberBirthday";
-            this.numberBirthday.Size = new System.Drawing.Size(89, 20);
+            this.numberBirthday.Size = new System.Drawing.Size(89, 22);
             this.numberBirthday.TabIndex = 13;
             this.numberBirthday.Value = new decimal(new int[] {
             5,
@@ -258,17 +258,17 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(8, 12);
+            this.label5.Location = new System.Drawing.Point(8, 11);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(92, 13);
+            this.label5.Size = new System.Drawing.Size(90, 12);
             this.label5.TabIndex = 12;
             this.label5.Text = "Number of People";
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(178, 178);
+            this.ClientSize = new System.Drawing.Size(388, 354);
             this.Controls.Add(this.tabControl1);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
